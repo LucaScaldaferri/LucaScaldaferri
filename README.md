@@ -1,5 +1,3 @@
-<!--
-**LucaScaldaferri/LucaScaldaferri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 👋 Hi, I'm Engineer and Data Scientist learner
 - 👀 I'm interested in python, data science, artificial intelligence, machine learning
